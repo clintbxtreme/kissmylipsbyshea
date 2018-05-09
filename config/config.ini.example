@@ -1,0 +1,17 @@
+; This is an example config file for credentials
+; Rename to ini to use
+
+api_client_id = paypal api client id
+api_secret = paypal api secret
+api_mode = paypal api live
+slack_url = slack incoming webhook url
+db_name = database name
+db_username = database username
+db_password = database password
+admin_username = admin username
+admin_password = admin password
+distributor_id = senegence distributor id
+distributor_password = senegence password
+secret = server script secret
+invoice_logo = logo to put in paypal invoice
+domain = friendly domain name
